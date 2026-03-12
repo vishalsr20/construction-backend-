@@ -33,6 +33,12 @@ dotenv
 
 cors
 
+
+## API Documentation
+https://documenter.getpostman.com/view/33187988/2sBXigKXxh
+
+## Video Walkthrough
+https://drive.google.com/file/d/1daY6ZQkqcYG0fXXH1tPHjtlaMeuFFMo1/view
 Postman (API testing)
 
 
